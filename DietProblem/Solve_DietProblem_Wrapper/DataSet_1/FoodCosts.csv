@@ -1,0 +1,78 @@
+Food,unitCost,minQuantity,maxQuantity
+Wheat Flour (Enriched),36,0,10
+Macaroni,14.1,0,10
+Wheat Cereal (Enriched),24.2,0,20
+Corn Flakes,7.1,0,15
+Corn Meal,4.6,0,20
+Hominy Grits,8.5,0,20
+Rice,7.5,0,15
+Rolled Oats,7.1,0,15
+White Bread (Enriched),7.9,0,15
+Whole Wheat Bread,9.1,0,25
+Rye Bread,9.1,0,20
+Pound Cake,24.8,0,5
+Soda Crackers,15.1,0,10
+Milk,11,0,15
+Evaporated Milk (can),6.7,0,15
+Butter,30.8,0,20
+Oleomargarine,16.1,0,15
+Eggs,32.6,0,15
+Cheese (Cheddar),24.2,0,20
+Cream,14.1,0,15
+Peanut Butter,17.9,0,10
+Mayonnaise,16.7,0,40
+Crisco,20.3,0,20
+Lard,9.8,0,30
+Sirloin Steak,39.6,0,30
+Round Steak,36.4,0,10
+Rib Roast,29.2,0,30
+Chuck Roast,22.6,0,20
+Plate,14.6,0,30
+Liver (Beef),26.8,0,30
+Leg of Lamb,27.6,0,20
+Lamb Chops (Rib),36.6,0,15
+Pork Chops,30.7,0,15
+Pork Loin Roast,24.2,0,10
+Bacon,25.6,0,15
+Ham smoked,27.4,0,15
+Salt Pork,16,0,15
+Roasting Chicken,30.3,0,15
+Veal Cutlets,42.3,0,20
+Salmon Pink (can),13,0,25
+Apples,4.4,0,25
+Bananas,6.1,0,25
+Lemons,26,0,10
+Oranges,30.9,0,10
+Green Beans,7.1,0,15
+Cabbage,3.7,0,15
+Carrots,4.7,0,10
+Celery,7.3,0,100
+Lettuce,8.2,0,10
+Onions,3.6,0,10
+Potatoes,34,0,10
+Spinach,8.1,0,15
+Sweet Potatoes,5.1,0,15
+Peaches (can),16.8,0,25
+Pears (can),20.4,0,25
+Pineapple (can),21.3,0,15
+Asparagus (can),27.7,0,15
+Green Beans (can),10,0,44
+Pork and Beans (can),7.1,0,44
+Corn (can),10.4,0,22
+Peas (can),13.8,0,22
+Tomatoes (can),8.6,0,33
+Tomato Soup (can),7.6,0,33
+Peaches Dried,15.7,0,10
+Prunes Dried,9,0,10
+Raisins Dried,9.4,0,33
+Peas Dried,7.9,0,33
+Lima Beans Dried,8.9,0,22
+Navy Beans Dried,5.9,0,22
+Coffee,22.4,0,11
+Tea,17.4,0,11
+Cocoa,8.6,0,10
+Chocolate,16.2,0,10
+Sugar,51.7,0,20
+Corn Syrup,13.7,0,20
+Molasses,13.6,0,15
+Strawberry Preserves,20.5,0,15
