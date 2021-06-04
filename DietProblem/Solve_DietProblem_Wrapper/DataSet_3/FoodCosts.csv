@@ -1,0 +1,10 @@
+food,cost,min,max
+hamburger,2.49,0,INF
+chicken,2.89,0,INF
+hot dog,1.50,0,INF
+fries,1.89,0,INF
+macaroni,2.09,0,INF
+pizza,1.99,0,INF
+salad,2.49,0,INF
+milk,0.89,0,INF
+ice cream,1.59,0,INF
